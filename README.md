@@ -15,9 +15,6 @@ A FULL-STACK DEVELOPER FROM INDIA.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pranav7651&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Pranav45266236)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pranav7651&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
